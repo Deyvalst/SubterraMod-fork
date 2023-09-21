@@ -5,6 +5,7 @@ Some own edits for Subterra - forgotten minecraft mod.
 **Changelog:**
 - Support any Forge 1.16.5 releases.
 - Fixed incorrect recipes.
+- Patched some tags.
 - More recipes for slabs, stairs, some blocks.
 - Enabled advancements.
 
