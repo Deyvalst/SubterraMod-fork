@@ -8,5 +8,6 @@ Some own edits for Subterra - forgotten minecraft mod.
 - Patched some tags.
 - More recipes for slabs, stairs, some blocks.
 - Enabled advancements.
+- Less crashes.
 
 Detailed information about gameplay and content (RUS): [Open mod wiki](https://github.com/Deyvalst/SubterraMod-fork/wiki/Главная)
